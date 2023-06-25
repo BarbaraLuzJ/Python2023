@@ -1,0 +1,58 @@
+[
+  {
+    "Codigo": "c001",
+    "Nombre": "Manopla silicona",
+    "Categoria": "cocina",
+    "Stock": 5,
+    "Origen": "china"
+  },
+  {
+    "Codigo": "c002",
+    "Nombre": "olla acero in",
+    "Categoria": "cocina",
+    "Stock": 2,
+    "Origen": "italia"
+  },
+  {
+    "Codigo": "d001",
+    "Nombre": "cuadro flor",
+    "Categoria": "decoracion",
+    "Stock": 2,
+    "Origen": "argentina"
+  },
+  {
+    "Codigo": "d002",
+    "Nombre": "vela aromatica",
+    "Categoria": "decoracion",
+    "Stock": 9,
+    "Origen": "argentina"
+  },
+  {
+    "Codigo": "c004",
+    "Nombre": "espatula acero",
+    "Categoria": "cocina",
+    "Stock": 9,
+    "Origen": "argentina"
+  },
+  {
+    "Codigo": "b001",
+    "Nombre": "cortina ba\u00f1o",
+    "Categoria": "banio",
+    "Stock": 3,
+    "Origen": "argentina"
+  },
+  {
+    "Codigo": "b002",
+    "Nombre": "jabonera",
+    "Categoria": "banio",
+    "Stock": 20,
+    "Origen": "india"
+  },
+  {
+    "Codigo": "b004",
+    "Nombre": "sales ba\u00f1o",
+    "Categoria": "ba\u00f1o",
+    "Stock": 4,
+    "Origen": "india"
+  }
+]
