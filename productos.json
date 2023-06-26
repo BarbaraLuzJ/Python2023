@@ -1,58 +1,79 @@
 [
   {
-    "Codigo": "c001",
+    "Codigo": 1001,
     "Nombre": "Manopla silicona",
     "Categoria": "cocina",
     "Stock": 5,
     "Origen": "china"
   },
   {
-    "Codigo": "c002",
-    "Nombre": "olla acero in",
+    "Codigo": 1002,
+    "Nombre": "olla acero inox",
     "Categoria": "cocina",
-    "Stock": 2,
+    "Stock": 14,
     "Origen": "italia"
   },
   {
-    "Codigo": "d001",
+    "Codigo": 2001,
     "Nombre": "cuadro flor",
     "Categoria": "decoracion",
     "Stock": 2,
     "Origen": "argentina"
   },
   {
-    "Codigo": "d002",
+    "Codigo": 2002,
     "Nombre": "vela aromatica",
     "Categoria": "decoracion",
     "Stock": 9,
     "Origen": "argentina"
   },
   {
-    "Codigo": "c004",
+    "Codigo": 1004,
     "Nombre": "espatula acero",
     "Categoria": "cocina",
     "Stock": 9,
     "Origen": "argentina"
   },
   {
-    "Codigo": "b001",
+    "Codigo": 3001,
     "Nombre": "cortina ba\u00f1o",
     "Categoria": "banio",
     "Stock": 3,
     "Origen": "argentina"
   },
   {
-    "Codigo": "b002",
+    "Codigo": 3002,
     "Nombre": "jabonera",
     "Categoria": "banio",
     "Stock": 20,
     "Origen": "india"
   },
   {
-    "Codigo": "b004",
+    "Codigo": 3004,
     "Nombre": "sales ba\u00f1o",
-    "Categoria": "ba\u00f1o",
-    "Stock": 4,
-    "Origen": "india"
+    "Categoria": "banio",
+    "Stock": 10,
+    "Origen": "argentina"
+  },
+  {
+    "Codigo": 2000,
+    "Nombre": "caca",
+    "Categoria": "decoracion",
+    "Stock": 2,
+    "Origen": "caca"
+  },
+  {
+    "Codigo": 5000,
+    "Nombre": "budinera",
+    "Categoria": "reposteria",
+    "Stock": 15,
+    "Origen": "argentina"
+  },
+  {
+    "Codigo": 5001,
+    "Nombre": "molde para flan",
+    "Categoria": "reposteria",
+    "Stock": 10,
+    "Origen": "argentina"
   }
 ]
